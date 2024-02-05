@@ -1,0 +1,23 @@
+.picA {
+    text-align: center;
+}
+
+.picB {
+    text-align: center;
+}
+
+
+
+.pawelczuPersonalCSS {
+    border:  5px solid rgb(4, 134, 37);
+    border-radius: 60px;
+}
+
+.pawelczuCountryCSS {
+    border:  3px solid rgb(228, 4, 4);
+     
+}
+
+section {
+    margin-top: 50px;
+}

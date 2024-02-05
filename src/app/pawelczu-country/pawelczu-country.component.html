@@ -1,0 +1,15 @@
+<hr>
+<h2 class="pawelczuCountry" [ngStyle]="{'color' : 'red'}" >Country Name: {{pawelczuCountry | uppercase}}</h2>
+<br>
+<hr>
+<h2 class="pawelczuCountry" [ngStyle]="{'font-style' : 'italic', 'background-color' : 'purple', 'color' : 'yellow'}" >Country Capital: {{pawelczuCity}}</h2>
+<br>
+<hr>
+<h2 class="pawelczuCountry">Average Salary: {{pawelczuAverageSalary}}</h2>  
+<br>
+<hr>
+
+<!-- Import the CurrencyPipe in your component or module if it's not already available -->
+<!--{{ 30507.90 | currency:'PLN':'symbol':'1.2-2' | currency:'CAD':'symbol':'1.2-2' }}-->
+
+

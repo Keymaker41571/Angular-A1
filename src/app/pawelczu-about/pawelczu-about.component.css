@@ -1,0 +1,13 @@
+.pawelczuAboutMe {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+hr {
+    background-color: rgb(107, 14, 37);
+    height: 1px;
+    margin-bottom: 1px;
+}
+
+
